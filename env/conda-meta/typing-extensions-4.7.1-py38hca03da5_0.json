@@ -1,0 +1,36 @@
+{
+  "build": "py38hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.8,<3.9.0a0",
+    "typing_extensions 4.7.1 py38hca03da5_0"
+  ],
+  "extracted_package_dir": "/Users/admin/miniforge3/pkgs/typing-extensions-4.7.1-py38hca03da5_0",
+  "features": "",
+  "files": [],
+  "fn": "typing-extensions-4.7.1-py38hca03da5_0.conda",
+  "legacy_bz2_md5": "60e8669d7b5736e3a7ad3d3e95984e0b",
+  "license": "PSF-2.0",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/admin/miniforge3/pkgs/typing-extensions-4.7.1-py38hca03da5_0",
+    "type": 1
+  },
+  "md5": "5e126cd8620c127094e31a4713c50863",
+  "name": "typing-extensions",
+  "package_tarball_full_path": "/Users/admin/miniforge3/pkgs/typing-extensions-4.7.1-py38hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "72f29c24a010bd155fd00605ca82f7ed60d1cc284eb30b3aa11775f67be45d9b",
+  "size": 9968,
+  "subdir": "osx-arm64",
+  "timestamp": 1690297597919,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/typing-extensions-4.7.1-py38hca03da5_0.conda",
+  "version": "4.7.1"
+}
